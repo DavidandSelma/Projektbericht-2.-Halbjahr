@@ -6,7 +6,8 @@ Unsere erste Überlegung ist es nun etwas in die Richtung "Physical Computing" m
 # (2) 11.01.2023
 
 In der heutigen Stunde haben wir damit gestartet, uns zu überlegen, ob ein "Raspberry Pi" oder ein "Arduino" günstiger für uns zum programmieren ist. Hierzu haben wir uns im Internet zu den Unterschieden zwischen den beiden mini-Computern informiert. 
-https://www.techtag.de/it-und-hightech/arduino-vs-raspberry-pi-wo-liegt-der-unterschied/
+> https://www.techtag.de/it-und-hightech/arduino-vs-raspberry-pi-wo-liegt-der-unterschied/
 
-Dann haben wir uns dazu entschieden, uns zunächst einmal mehr mit Arduino zu bschäftigen. Hierfür haben wir nach Projektbeispielen im Internet gesucht. 
-https://www.ionos.de/digitalguide/server/knowhow/arduino-projekte-ideen-beispiele-fuer-arduino-uno-nano/
+Dann haben wir uns zunächst einmal über mögliche Projekte mit Arduino auseinandergesetzt. Hierfür haben wir nach Projektbeispielen im Internet gesucht. 
+> https://www.ionos.de/digitalguide/server/knowhow/arduino-projekte-ideen-beispiele-fuer-arduino-uno-nano/
+
