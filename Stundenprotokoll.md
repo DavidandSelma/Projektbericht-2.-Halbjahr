@@ -16,3 +16,5 @@ Danach haben wir uns auch über Projekte mit Raspberry Pi informiert, um zu scha
 
 Dann haben wir Arduino auf unserem Laptop installiert, um den Code programmieren zu können. 
 Eigentlich wollten wir im 2. Teil der heutigen Stunde schonmal den Arduino anschließen und ein LED per Knopfrdruck zum Leuchten bringen, allerdings gab es keine Steckbrette mehr und von daher konnten wir dieses Vorhaben nicht umsetzen. Mit den Krokodilklammern mit denen wir arbeiten sollten kamen wir nämlich nicht so gut zurecht. 
+Deshalb haben wir stattdessen die Anfänge mit Arduino geübt und uns zu diesem Zweck mehrere Tutorials angeschaut. 
+> https://starthardware.org/
