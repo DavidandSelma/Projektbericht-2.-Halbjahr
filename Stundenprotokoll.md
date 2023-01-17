@@ -18,3 +18,8 @@ Dann haben wir Arduino auf unserem Laptop installiert, um den Code programmieren
 Eigentlich wollten wir im 2. Teil der heutigen Stunde schonmal den Arduino anschließen und ein LED per Knopfrdruck zum Leuchten bringen, allerdings gab es keine Steckbrette mehr und von daher konnten wir dieses Vorhaben nicht umsetzen. Mit den Krokodilklammern mit denen wir arbeiten sollten kamen wir nämlich nicht so gut zurecht. 
 Deshalb haben wir stattdessen die Anfänge mit Arduino geübt und uns zu diesem Zweck mehrere Tutorials angeschaut. 
 > https://starthardware.org/
+
+# (3) 17.01.2023
+
+Heute haben wir uns noch weiter mit unserem Projekt beschäftigt. Unser Projekt soll in etwa so aussehen: eine Lampe geht an, entweder mithilfe eines Bewegungssensors, der Bewegung wahrnimmt oder mithilfe eines Wärmesensors, der Infrarotstrahlung, also Wärme, registriert. Abhängig davon, was besser funktioniert, entscheiden wir uns die nächsten Stunden genau wie unser Projekt aussehen soll. 
+Anonsten haben wir heute weiter Recherche zu Arduino und dem Arbeiten mit Arduino beschäftigt; noch sind wir sehr gespannt, wie wir das so hinbekommen, da unser altes Projekt ja nichts mit physical computing zu tun hatte. 
