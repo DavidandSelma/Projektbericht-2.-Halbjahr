@@ -28,4 +28,12 @@ Anonsten haben wir heute weiter Recherche zu Arduino und dem Arbeiten mit Arduin
 
 Heute haben wir uns nun an Arduino herangewagt und erste kleine Versuche unternommen. Zunächst haben wir mithilfe des Arduinos und Krokodilklammern ein LED zum Leuchten gebracht. Außerdm haben wir einen Arduino-Dimmschalters angebracht und die Spannung des Arduinos (0V - 5V) damit gemessen, indem wir den Widertand erhöht haben. Danach haben wir den Widerstand des Dimschalters gemessen. Anschließend haben wir versucht die Teilspannug des Arduinos durch den Dimschalter digital einzulesen, mit dem "Serial Monitor".
 
+![grafik](https://user-images.githubusercontent.com/111414662/213119963-d4e1d268-f1b5-4654-a84a-52813ae486ed.png)
+![grafik](https://user-images.githubusercontent.com/111414662/213120056-37aa18b0-5346-46fc-b273-fdb922730cc1.png)
+
+
+Als Hilfestellung haben wir uns im Internet auf verschiedenen Seiten informiert.
+
+![grafik](https://user-images.githubusercontent.com/111414662/213120124-8691201d-1a89-4dc6-bc55-7f31ace56056.png)
 > https://starthardware.org/arduino-serial-print/ 
+
