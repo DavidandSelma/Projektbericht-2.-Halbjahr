@@ -23,3 +23,9 @@ Deshalb haben wir stattdessen die Anfänge mit Arduino geübt und uns zu diesem 
 
 Heute haben wir uns noch weiter mit unserem Projekt beschäftigt. Unser Projekt soll in etwa so aussehen: eine Lampe geht an, entweder mithilfe eines Bewegungssensors, der Bewegung wahrnimmt oder mithilfe eines Wärmesensors, der Infrarotstrahlung, also Wärme, registriert. Abhängig davon, was besser funktioniert, entscheiden wir uns die nächsten Stunden genau wie unser Projekt aussehen soll. 
 Anonsten haben wir heute weiter Recherche zu Arduino und dem Arbeiten mit Arduino beschäftigt; noch sind wir sehr gespannt, wie wir das so hinbekommen, da unser altes Projekt ja nichts mit physical computing zu tun hatte. 
+
+# (4) 18.01.2023
+
+Heute haben wir uns nun an Arduino herangewagt und erste kleine Versuche unternommen. Zunächst haben wir mithilfe des Arduinos und Krokodilklammern ein LED zum Leuchten gebracht. Außerdm haben wir einen Arduino-Dimmschalters angebracht und die Spannung des Arduinos (0V - 5V) damit gemessen, indem wir den Widertand erhöht haben. Danach haben wir den Widerstand des Dimschalters gemessen. Anschließend haben wir versucht die Teilspannug des Arduinos durch den Dimschalter digital einzulesen, mit dem "Serial Monitor".
+
+> https://starthardware.org/arduino-serial-print/ 
