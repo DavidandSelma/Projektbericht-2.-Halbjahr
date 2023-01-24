@@ -37,3 +37,8 @@ Als Hilfestellung haben wir uns im Internet auf verschiedenen Seiten informiert.
 ![grafik](https://user-images.githubusercontent.com/111414662/213120124-8691201d-1a89-4dc6-bc55-7f31ace56056.png)
 > https://starthardware.org/arduino-serial-print/ 
 
+# (4) 24.01.2023
+
+Heute haben wir ein Breadboard erhalten und uns zunächst damit etwas eingearbeitet. Die Idee war, erstmal ein LED zum Leuchten zu bringen. Den Code dafür findet man in einem vorgespeicherten Beispiel bei Arduino, sodass man nur alles richitg verkablen musste. Als wir dies getan haben, leuchtete jedoch zunächst nur das kleine Lämpchen auf dem Arduino selbst und nicht das eingesteckte LED Licht. 
+> ![grafik](https://user-images.githubusercontent.com/111414662/214284597-481c5b2b-ddec-45c5-8749-58d83a63cbad.png)
+
