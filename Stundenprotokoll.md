@@ -43,7 +43,7 @@ Als Hilfestellung haben wir uns im Internet auf verschiedenen Seiten informiert.
 
 > https://starthardware.org/arduino-serial-print/ 
 
-# (4) 24.01.2023
+# (5) 24.01.2023
 
 Heute haben wir ein Breadboard erhalten und uns zunächst damit etwas eingearbeitet. Die Idee war, erstmal ein LED zum Leuchten zu bringen. Den Code dafür findet man in einem vorgespeicherten Beispiel bei Arduino, sodass man nur alles richitg verkablen musste. Als wir dies getan haben, leuchtete jedoch zunächst nur das kleine Lämpchen auf dem Arduino selbst und nicht das eingesteckte LED Licht. 
 
@@ -52,3 +52,14 @@ Heute haben wir ein Breadboard erhalten und uns zunächst damit etwas eingearbei
 > ![grafik](https://user-images.githubusercontent.com/111414662/214287320-c7902ea7-4535-45a2-ab81-e6d8eedd8b7c.png)
 
 Trotz einiges hin- und herprobierens und googelns konnten wir das Porblem in der diesigen Stunde nicht lösen und werden uns deshalb morgen damit beschäftigen. 
+
+# (6) 25.01.2023
+
+In der heutigen Stunde haben wir uns zunächst mit dem Problem aus letzter Stunde beschäftigt und es schließlich auch gelöst; der Code war richtig, der Arduino war lediglich nicht richtig verkabelt. Nun leuchtet und blickt also auch das LED. 
+
+> ![grafik](https://user-images.githubusercontent.com/111414662/214511096-e875ac4f-50a9-4fd1-b34d-3a35d2944c06.png)
+
+Dann haben wir noch eine Konstante (Const) für unseren Port definiert, die besagt, dass der LEDPIN = 4 ist. Somit können wir die Variable 4 (den Output-Port) im Code immer durch LEDPIN ersetzen. 
+Außerdem haben wir noch den "Serial Monitor" programmiert, der immer das ausspuckt, was der Arduino gerade als Befehl bekommt, also in unserem Falle "On" und "Off", je nachdem ob das LED gerade blinkt oder nicht. 
+
+> ![grafik](https://user-images.githubusercontent.com/111414662/214511163-209a0e23-54d5-4d39-994d-acc94652655c.png)
