@@ -63,3 +63,11 @@ Dann haben wir noch eine Konstante (Const) für unseren Port definiert, die besa
 Außerdem haben wir noch den "Serial Monitor" programmiert, der immer das ausspuckt, was der Arduino gerade als Befehl bekommt, also in unserem Falle "On" und "Off", je nachdem ob das LED gerade blinkt oder nicht. 
 
 > ![grafik](https://user-images.githubusercontent.com/111414662/214511163-209a0e23-54d5-4d39-994d-acc94652655c.png)
+
+Schlussendlich haben wir noch angefangen, eine Schleife (mit dem Befehl "for") einzurichten. Dabei soll das LED in der Theorie immer 4x mal blinken und dann eine Puase machen. Dabei wird ein Zähler eingerichtet, der pro blinken immer 1 dazu addiert. Der Code wurde zwar geuploaded, allerdings pausiert das Blinken des LEDs bisher noch nicht. Darum werden wir uns also in den nächsten Stunden kümmern müssen. 
+
+> ![grafik](https://user-images.githubusercontent.com/111414662/214514180-0dcd95bb-6dea-4599-b2c6-7002d7ee1267.png)
+
+Am Ende wollen wir einen kleinen Rechner damit programmieren (mithilfe vom Blinken); Hilfe haben wir dazu auf dieser Website gefunden: 
+
+> https://starthardware.org/lektion-10-for-schleife-und-der-led-rechner/
