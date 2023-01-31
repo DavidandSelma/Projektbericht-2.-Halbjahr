@@ -71,3 +71,7 @@ Schlussendlich haben wir noch angefangen, eine Schleife (mit dem Befehl "for") e
 Am Ende wollen wir einen kleinen Rechner damit programmieren (mithilfe vom Blinken); Hilfe haben wir dazu auf dieser Website gefunden: 
 
 > https://starthardware.org/lektion-10-for-schleife-und-der-led-rechner/
+
+# (7) 31.01.2023
+
+Heute haben wir an dem kleinen "Rechner" von letzter Stunde weitergearbeitet. Nun können wir mit ihm kleine Aufagben rechnen (z.B. 2+3) und er spukt die Antwort mit Hilfe des LEDs aus (beim Beispiel 2+3 blinkt er 5x).
