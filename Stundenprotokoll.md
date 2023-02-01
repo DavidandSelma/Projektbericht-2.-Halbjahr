@@ -75,3 +75,9 @@ Am Ende wollen wir einen kleinen Rechner damit programmieren (mithilfe vom Blink
 # (7) 31.01.2023
 
 Heute haben wir an dem kleinen "Rechner" von letzter Stunde weitergearbeitet. Nun können wir mit ihm kleine Aufagben rechnen (z.B. 2+3) und er spukt die Antwort mit Hilfe des LEDs aus (beim Beispiel 2+3 blinkt er 5x).
+
+# (8) 01.02.2023
+
+In der heutigen Stunde haben wir zunächst noch weitere LEDS zum Leuchten gebracht. Danach haben wir angenfangen, eine Glühbirne anzuschließen. Hierzu mussten wir uns erstmal mit Transistoren auseinandersetzen und lernen, wie man diese bedient. Danach haben wir begonnen einen Stromkreis aufzustellen und den Transistor eingebaut. Damit hatten wir anfänglich Probleme, und so hat es eine Weile gedauert, bis wir den Stromkreis fertig hatten. Zum Schluss haben wir dann noch angefangen, uns den richtigen Code zu erschließen, sind damit aber noch nicht so weit, sodass wir das nächste Stunde in Angriff nehmen müssen.
+
+> 
