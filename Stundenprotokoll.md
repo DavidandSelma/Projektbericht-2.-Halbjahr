@@ -80,4 +80,10 @@ Heute haben wir an dem kleinen "Rechner" von letzter Stunde weitergearbeitet. Nu
 
 In der heutigen Stunde haben wir zunächst noch weitere LEDS zum Leuchten gebracht. Danach haben wir angenfangen, eine Glühbirne anzuschließen. Hierzu mussten wir uns erstmal mit Transistoren auseinandersetzen und lernen, wie man diese bedient. Danach haben wir begonnen einen Stromkreis aufzustellen und den Transistor eingebaut. Damit hatten wir anfänglich Probleme, und so hat es eine Weile gedauert, bis wir den Stromkreis fertig hatten. Zum Schluss haben wir dann noch angefangen, uns den richtigen Code zu erschließen, sind damit aber noch nicht so weit, sodass wir das nächste Stunde in Angriff nehmen müssen.
 
-> 
+> ![grafik](https://user-images.githubusercontent.com/111414662/218076510-22bbb878-6cd7-4520-98ef-3af6b4ffc510.png)
+> ![grafik](https://user-images.githubusercontent.com/111414662/218076602-c64183df-e8a2-4cd4-90b3-cc4b458cc409.png)
+
+# (9) 10.02.2023
+
+Heute haben wir uns weiter mit unserer Spielidee beschäftigt. Um uns noch intensiver damit auseinaderzustezen, nehmen wir den Arduino-Baukasten mit nach Hause übers Wochenende. Dananch haben wir noch weiter an dem Code aus letzter Stunde gearbeitet.
+
