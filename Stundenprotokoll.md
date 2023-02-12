@@ -87,3 +87,8 @@ In der heutigen Stunde haben wir zunächst noch weitere LEDS zum Leuchten gebrac
 
 Heute haben wir uns weiter mit unserer Spielidee beschäftigt. Um uns noch intensiver damit auseinaderzustezen, nehmen wir den Arduino-Baukasten mit nach Hause übers Wochenende. Dananch haben wir noch weiter an dem Code aus letzter Stunde gearbeitet.
 
+# (10) 12.02.2023
+
+Wir haben uns für ein Projekt entschieden. Wir wollen eine Glühbirne mit Hilfe eines Bewegungsmelders zum Leuchten bringen. Zudem soll die Glühbirne mit Hilfe eines Transistoren gesteuert werden. Dazu haben wir den Code heute geschrieben. In den nächsten Stunden werden wir dann versuchen, den Transistor und den Bewegungsmelder anzuschließen und das Programm laufen zu lassen. 
+
+> ![grafik](https://user-images.githubusercontent.com/111414662/218325427-030b8660-82c8-466a-835b-fd999146807a.png)
