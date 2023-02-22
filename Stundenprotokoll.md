@@ -97,4 +97,11 @@ Wir haben uns für ein Projekt entschieden. Wir wollen eine Glühbirne mit Hilfe
 
 Heute haben wir alles verkabelt und angeschlossen (Bewegungsmelder, Transistor etc.), was wir für unser Projekt brauchen. Es war zunächt etwas schwierig, den Bewegungsmelder anzuschließen, da es schwer zu erkennen war, in welchen Port die ANschlüsse gehören. Schließlich haben wir das allerdings dann hinbekommen. Als wir den Code geuploaded hatten, funktionierte es allerdings noch nicht (obwohl keine "Error" Mitteilung kam). Aus dem Grund haben wi noch den Serial Monitor" einprogrammiert, müssen uns allerdings nächste Stunde damit beschäftigen, warum der Bewegungsmelder und die Glühbirne noch nicht funktionieren. 
 
-> 
+> ![grafik](https://user-images.githubusercontent.com/111414662/220561168-4414227f-5cfe-4bf6-b0ef-fa29cbb6c311.png)
+> ![grafik](https://user-images.githubusercontent.com/111414662/220561651-45a54a9c-05f4-46e4-9cdd-84382d632a64.png)
+
+# (12) 22.02.2023
+
+Heute haben wir uns weiter mit der Programmierung des serial monitors beschäftigt. 
+
+> https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-monitor
