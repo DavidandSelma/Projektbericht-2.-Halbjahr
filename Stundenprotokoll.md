@@ -105,3 +105,7 @@ Heute haben wir alles verkabelt und angeschlossen (Bewegungsmelder, Transistor e
 Heute haben wir uns weiter mit der Programmierung des serial monitors beschäftigt. 
 
 > https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-monitor
+
+# (13) 01.03.2023
+
+Heute haben wir schon einmal damit begonenn, die Projektbericht-Seite zu erstellen. Nun haben wir ein klickbares Inhaltsverzeichnis, eine erste Definition von Arduino und ein eingefügtes Bild, plus Quellen.
