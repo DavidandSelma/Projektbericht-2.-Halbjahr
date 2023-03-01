@@ -3,9 +3,9 @@
 ## **_Inhaltsverzeichnis_** 
 [1) Arduino](#arduino)
 [2) Das Projekt](#dasprojekt) 
-### Der Code 
-### Fazit 
-### Quellen 
+[3) Der Code](#dercode) 
+[4) Fazit](#fazit) 
+[5) Quellen](#quellen) 
 
 - [Einleitung](#einleitung)
 - [Hauptteil](#hauptteil)
