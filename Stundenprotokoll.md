@@ -109,3 +109,7 @@ Heute haben wir uns weiter mit der Programmierung des serial monitors beschäfti
 # (13) 01.03.2023
 
 Heute haben wir schon einmal damit begonenn, die Projektbericht-Seite zu erstellen. Nun haben wir ein klickbares Inhaltsverzeichnis, eine erste Definition von Arduino und ein eingefügtes Bild, plus Quellen.
+
+# (14) 08.03.2023
+
+Heute haben wir daran gearbeitet, was wir unserem Projekt noch hinzufügen können, um unser Projekt noch besser zu machen. Allerdings haben wir noch Probleme mit unserem Serial Monitor.  
