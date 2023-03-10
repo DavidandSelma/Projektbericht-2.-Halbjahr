@@ -127,6 +127,8 @@ Heute wollten wir damit beginnen, unser Projekt auf LEDS umzustellen, nachdem wi
 
 # (26) 10.03.2023
 
+In der heutigen Stunde haben wir uns damit beschäftigt, einen kleinen "Timer" für unseren Bewegungsmelder zu erstellen, da er ja 1 Minute zum hochpowern benötigt. Hierzu haben wir eine "for-Schleife" programmiert, wo ein Zähler "i" definiert ist, der von 60 hochzählt. Dabei wird vom Serial Monitor jedes Mal, wenn der Zähler eine 10er-Stude erreicht, das Ergebnis gedruckt (60, 50 etc.). Im Gesamtergebnis druckt der Monitor von 60 - bis 0 alle 10er Schritte den Satz "... Sekunden verbleibend". 
+Danach haben wir noch unsere bisherigen Beiträge auf Fehler korrigiert und das Layot etwas bearbeitet. 
 
 > ![grafik](https://user-images.githubusercontent.com/111414662/224303508-4c4e66fd-cfca-4e5e-a598-17bcd0981040.png)
 > ![grafik](https://user-images.githubusercontent.com/111414662/224303560-d88d9254-b405-43fb-89d2-11a06026eebf.png)
