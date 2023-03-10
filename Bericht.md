@@ -13,6 +13,7 @@ Arduino ist ein kleiner Computer, genauer gesagt eine "Computing-Plattform", mit
 
 ### _Das Projekt_
 ### _Der Code_ 
+Die verwendete Programmiersprache ist C++.
 ### _Fazit_ 
 ### _Quellen_
 > [Definition Arduino] https://www.conrad.de/de/ratgeber/entwicklungskits-bausaetze/arduino.html
