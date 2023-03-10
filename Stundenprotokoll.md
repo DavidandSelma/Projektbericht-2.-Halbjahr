@@ -102,7 +102,7 @@ Heute haben wir alles verkabelt und angeschlossen (Bewegungsmelder, Transistor e
 
 # (12) 22.02.2023
 
-Heute haben wir uns weiter mit der Programmierung des serial monitors beschäftigt. 
+Heute haben wir uns weiter mit der Programmierung des serial monitors beschäftigt. Zudem haben wir weiterhin versucht, dass Problem mit unserem Bewegungsmelder und der Glühbirne zu lösen. Leider sind wir nicht sonderlich weit gekommen, und obwohl unser code richtig sein sollte, funktioniert es nicht so, wie wir es uns vorgestellt hatten, dass der Bewegungsmelder - sofern er eine Bewegung wahrnimmt - die Glühbirne aktiviert und sie zum Leuchten bringt. 
 
 > https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-monitor
 
@@ -110,6 +110,16 @@ Heute haben wir uns weiter mit der Programmierung des serial monitors beschäfti
 
 Heute haben wir schon einmal damit begonenn, die Projektbericht-Seite zu erstellen. Nun haben wir ein klickbares Inhaltsverzeichnis, eine erste Definition von Arduino und ein eingefügtes Bild, plus Quellen.
 
-# (14) 08.03.2023
+# (14) 03.03.2023
 
-Heute haben wir daran gearbeitet, was wir unserem Projekt noch hinzufügen können, um unser Projekt noch besser zu machen. Allerdings haben wir noch Probleme mit unserem Serial Monitor.  
+In der heutigen Stunde haben wir damit begonnen, eins unserer Probleme zu lösen: das mit dem Serial Monitor. Denn der Befehl: "Serial.Println", hat bei uns partout nicht funktioniert. Nach einigem herumrpobieren und googeln haben wir dann gemerkt, dass der Befehl "ln" heißt und nicht - so wie von uns codiert - "in". NAchdem wir diesen Fehler korrigiert haben, lief der Serial Monitor einwandfrei. 
+Dann haben wir uns daran gemacht, ein weiteres unserer Probleme zu lösen: uner Code funktioniert nicht. Nachdem wir die Lampe überprüft haben - um sicerzustellen, dass die nicht einfach durchgebrannt war - und diese funktionierte, wussten wir, das Problem muss woanders liegen. Um herauszufinden wo genau sich die Fehlerquelle befindet, haben wir erneut überprüft, ob wir alles richitg verkabelt haben , was wir hatten. Dort befand er sich also auch nicht. 
+
+Nachdem also klar war, dass wir mit der Glühbirne nicht arbeiten können, sind wir auf LEDS umgestiegen und planen, mehrere in Reihe zu schalten, um eine bunte und helle Beleuchtung zu erzeugen. 
+
+
+# (15) 8.03.2023
+
+Heute wollten wir damit beginnen, unser Projekt auf LEDS umzustellen, nachdem wir in der letzten Stunde den Entschluss dazu gefasst hatten. Dafür haben wir zunächst einen Pin (Pin 5) als Ausgang für den LED definiert. Dann haben wir den Grundzustand mit dem Befehl "digitalWrite(LED, LOW);" auf "Aus" gesetzt. Den Code für den Bewegungsmelder haten wir  ja bereits schon programmiert, und so mussten wir für die LEDS nur noch den Befehl "digitalWrite(LED, HIGH);" programmieren, falls der Bewegungsmelder eine Bewegung registriert. Dann haben wir uns noch daran gemacht, den LED zu verkabeln und haben das Programm dann einmal hochgeladen und es hat funktioniert. Schließlich haben wir dann noch einen zweiten LED hinzugefügt, der den gleichen Code wie das erste besitzt, mit der Ausnahme, dass der Pin, der als Eingang definiert ist, der Pin 4 ist. Dann haben wir dieses zweite LED in Reihe geschaltet und das Programm erneut hochgeladen und beide Pins haben geleuchtet. 
+
+# (26) 10.03.2023
