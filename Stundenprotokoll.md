@@ -117,9 +117,12 @@ Dann haben wir uns daran gemacht, ein weiteres unserer Probleme zu lösen: uner 
 
 Nachdem also klar war, dass wir mit der Glühbirne nicht arbeiten können, sind wir auf LEDS umgestiegen und planen, mehrere in Reihe zu schalten, um eine bunte und helle Beleuchtung zu erzeugen. 
 
+Über unseren Bewegungsmelder haben wir zudem herausgefunden, dass er 1 Minute zum ochfahren braucht und erst dann funktioniert. Des Weiteren reagiert er auf Infrarotlicht (also Wärme) und registriert Bewegung von 3 - 7 Meter entfernung. Wir waren also immer zu nah an ihm dran und wussten nicht, dass er Zeit braucht, bis er betriebsbereit ist. 
 
 # (15) 8.03.2023
 
 Heute wollten wir damit beginnen, unser Projekt auf LEDS umzustellen, nachdem wir in der letzten Stunde den Entschluss dazu gefasst hatten. Dafür haben wir zunächst einen Pin (Pin 5) als Ausgang für den LED definiert. Dann haben wir den Grundzustand mit dem Befehl "digitalWrite(LED, LOW);" auf "Aus" gesetzt. Den Code für den Bewegungsmelder haten wir  ja bereits schon programmiert, und so mussten wir für die LEDS nur noch den Befehl "digitalWrite(LED, HIGH);" programmieren, falls der Bewegungsmelder eine Bewegung registriert. Dann haben wir uns noch daran gemacht, den LED zu verkabeln und haben das Programm dann einmal hochgeladen und es hat funktioniert. Schließlich haben wir dann noch einen zweiten LED hinzugefügt, der den gleichen Code wie das erste besitzt, mit der Ausnahme, dass der Pin, der als Eingang definiert ist, der Pin 4 ist. Dann haben wir dieses zweite LED in Reihe geschaltet und das Programm erneut hochgeladen und beide Pins haben geleuchtet. 
+
+> ![grafik](https://user-images.githubusercontent.com/111414662/224302229-68f80b60-7c2d-445a-89a0-f4daa01ace9a.png)
 
 # (26) 10.03.2023
