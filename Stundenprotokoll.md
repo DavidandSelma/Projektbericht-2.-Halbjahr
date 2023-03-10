@@ -126,3 +126,8 @@ Heute wollten wir damit beginnen, unser Projekt auf LEDS umzustellen, nachdem wi
 > ![grafik](https://user-images.githubusercontent.com/111414662/224302229-68f80b60-7c2d-445a-89a0-f4daa01ace9a.png)
 
 # (26) 10.03.2023
+
+
+> ![grafik](https://user-images.githubusercontent.com/111414662/224303508-4c4e66fd-cfca-4e5e-a598-17bcd0981040.png)
+> ![grafik](https://user-images.githubusercontent.com/111414662/224303560-d88d9254-b405-43fb-89d2-11a06026eebf.png)
+
