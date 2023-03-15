@@ -125,7 +125,7 @@ Heute wollten wir damit beginnen, unser Projekt auf LEDS umzustellen, nachdem wi
 
 > ![grafik](https://user-images.githubusercontent.com/111414662/224302229-68f80b60-7c2d-445a-89a0-f4daa01ace9a.png)
 
-# (26) 10.03.2023
+# (16) 10.03.2023
 
 In der heutigen Stunde haben wir uns damit beschäftigt, einen kleinen "Timer" für unseren Bewegungsmelder zu erstellen, da er ja 1 Minute zum hochpowern benötigt. Hierzu haben wir eine "for-Schleife" programmiert, wo ein Zähler "i" definiert ist, der von 60 hochzählt. Dabei wird vom Serial Monitor jedes Mal, wenn der Zähler eine 10er-Stude erreicht, das Ergebnis gedruckt (60, 50 etc.). Im Gesamtergebnis druckt der Monitor von 60 - bis 0 alle 10er Schritte den Satz "... Sekunden verbleibend". 
 Danach haben wir noch unsere bisherigen Beiträge auf Fehler korrigiert und das Layot etwas bearbeitet. 
@@ -133,3 +133,6 @@ Danach haben wir noch unsere bisherigen Beiträge auf Fehler korrigiert und das 
 > ![grafik](https://user-images.githubusercontent.com/111414662/224303508-4c4e66fd-cfca-4e5e-a598-17bcd0981040.png)
 > ![grafik](https://user-images.githubusercontent.com/111414662/224303560-d88d9254-b405-43fb-89d2-11a06026eebf.png)
 
+# (17) 15.03.23
+
+In der heutigen Stunde haben wir weiter an unserem Projekttagebuch gearbeitet. Des Weiteren haben wir uns überlegt, wie wir unser Projekt präsentieren wollen. Wir sind dabei ein Modell zu entwickeln (wahrscheinlich in einem Schukarton) mit dessen Hilfe wir unser Projekt cool darstellen können. 
