@@ -8,7 +8,7 @@
 - [5) Quellen](#quellen) 
 
 ### _Arduino_ 
-Arduino ist ein kleiner Computer, genauer gesagt eine "Computing-Plattform", mit Hilfe der man von kleinen Projekten - wie ein LED zum Leuchten bringen - bis zur Maschinensteuerung alles mögliche programmieren und machen kann. Den Arduino kann man als Steuersystem verwenden, mit dem man Aläufe automatisieren kann. Hierbei sind die Aus- und Eingänge abhängig von einander und dem, was progammiert wurde. 
+Arduino ist ein kleiner Computer, genauer gesagt eine "Computing-Plattform", mit Hilfe der man von kleinen Projekten - wie ein LED zum Leuchten bringen - bis zur Maschinensteuerung alles mögliche programmieren und machen kann. Den Arduino kann man als Steuersystem verwenden, mit dem man Aläufe automatisieren kann. Hierbei sind die Aus- und Eingänge abhängig von einander und dem, was progammiert wurde. Typischerweise wird der Arduino mit C oder C++ programmiert. 
 > ![This is an image](https://m.media-amazon.com/images/I/51txW1iicVL._AC_.jpg)
 
 ### _Projekt_
@@ -88,6 +88,14 @@ void loop() {
 ### _Fazit_ 
 
 ### _Quellen_
-> [Definition Arduino] https://www.conrad.de/de/ratgeber/entwicklungskits-bausaetze/arduino.html
+> https://www.conrad.de/de/ratgeber/entwicklungskits-bausaetze/arduino.html
 
-> [Bild: Arduino] https://www.google.com/search?q=arduino+uno&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjM9eyspbr9AhUzcfEDHfJ2DvMQ_AUoAnoECAEQBA&biw=1600&bih=709&dpr=1.2#imgrc=qpMv2fTCPq9OJM
+>https://www.google.com/search?q=arduino+uno&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjM9eyspbr9AhUzcfEDHfJ2DvMQ_AUoAnoECAEQBA&biw=1600&bih=709&dpr=1.2#imgrc=qpMv2fTCPq9OJM
+	
+> https://starthardware.org/
+	
+> https://starthardware.org/arduino-serial-print/
+	
+>https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-monitor
+	
+>
