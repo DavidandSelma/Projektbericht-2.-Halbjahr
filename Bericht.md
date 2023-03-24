@@ -12,10 +12,25 @@ Arduino ist ein kleiner Computer, genauer gesagt eine "Computing-Plattform", mit
 > ![This is an image](https://m.media-amazon.com/images/I/51txW1iicVL._AC_.jpg)
 
 ### _Projekt_
+
 ### _Code_ 
-Die verwendete Programmiersprache ist C++.
+Die hier verwendete Programmiersprache ist C. 
+
+<details>
+	<summary>Ausschnitt des Codes</summary>
+	
+```J
+  
+ const int LED1 = 5; // Die LED1 (blau) ist an Pin 5 angeschlossen
+const int bewegung = 7; //  Der Bewegungssensor an Pin 7 
+const int LED2 = 4; // Die LED2 (grün) ist an Pin 4 angeschlossen  
+  
+  ```	
+</details> 
+
 ### _Fazit_ 
+
 ### _Quellen_
 > [Definition Arduino] https://www.conrad.de/de/ratgeber/entwicklungskits-bausaetze/arduino.html
->
+
 > [Bild: Arduino] https://www.google.com/search?q=arduino+uno&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjM9eyspbr9AhUzcfEDHfJ2DvMQ_AUoAnoECAEQBA&biw=1600&bih=709&dpr=1.2#imgrc=qpMv2fTCPq9OJM
