@@ -138,4 +138,11 @@ Danach haben wir noch unsere bisherigen Beiträge auf Fehler korrigiert und das 
 In der heutigen Stunde haben wir weiter an unserem Projekttagebuch gearbeitet. Des Weiteren haben wir uns überlegt, wie wir unser Projekt präsentieren wollen. Wir sind dabei ein Modell zu entwickeln (wahrscheinlich in einem Schukarton) mit dessen Hilfe wir unser Projekt cool darstellen können. 
 
 # (18) 17.03.23
+
 Heute haben wir an unserem Modell gearbeitet. Hierzu haben wir beispielsweise einen Karton rausgesucht und angenafnge, unser Modell zu planen und zu bauen. 
+
+# (19) 24.03.23 
+
+In der heutigen Stunde haben wir an unserem Projektbericht gearbeitet. Eigentlich wollten wir an unserem Modell weiterbasteln, allerdings konnten wir den Karton, den wir verwendet hatten, nicht wiederfinden. Da es ansonsten auch keinen passenden Karton in der Informatik oder sonst wo gab, können wir da erst nächste Woche mit fortfahren. 
+
+
