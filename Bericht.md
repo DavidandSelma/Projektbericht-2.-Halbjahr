@@ -12,6 +12,7 @@ Arduino ist ein kleiner Computer, genauer gesagt eine "Computing-Plattform", mit
 > ![This is an image](https://m.media-amazon.com/images/I/51txW1iicVL._AC_.jpg)
 
 ### _Projekt_
+Das Projekt umfasst zwei LED Lampen, die über einen Bewegungsmelder gesteuert werden. Nimmt der Melder etwas war, werden die Lampen eingeschaltet. Die Umgebung mit der Programmiert wurde ist Ardino. Die zu verwendende Sprache ist C. Die LEDs werden durch das Arduino gesteuert.
 
 ### _Code_ 
 Die hier verwendete Programmiersprache ist C. 
