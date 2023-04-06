@@ -8,11 +8,11 @@
 - [5) Quellen](#quellen) 
 
 ### _Arduino_ 
-Arduino ist ein kleiner Computer, genauer gesagt eine "Computing-Plattform", mit Hilfe der man von kleinen Projekten - wie ein LED zum Leuchten bringen - bis zur Maschinensteuerung alles mögliche programmieren und machen kann. Den Arduino kann man als Steuersystem verwenden, mit dem man Aläufe automatisieren kann. Hierbei sind die Aus- und Eingänge abhängig von einander und dem, was progammiert wurde. Typischerweise wird der Arduino mit C oder C++ programmiert. 
+Der Arduino ist ein kleiner Computer, genauer gesagt eine "Computing-Plattform", mit deren Hilfe man von kleinen Projekten - wie ein LED zum Leuchten bringen - bis zur Maschinensteuerung alles mögliche programmieren und machen kann. Den Arduino kann man als Steuersystem verwenden, mit dem man Abläufe automatisieren kann. Hierbei sind die Aus- und Eingänge (OutPut Pin und InPut Pin) abhängig von einander und dem, was progammiert wurde. Typischerweise wird der Arduino mit C oder C++ programmiert. 
 > ![This is an image](https://m.media-amazon.com/images/I/51txW1iicVL._AC_.jpg)
 
 ### _Projekt_
-Das Projekt umfasst zwei LED Lampen, die über einen Bewegungsmelder gesteuert werden. Nimmt der Melder etwas war, werden die Lampen eingeschaltet. Die Umgebung mit der Programmiert wurde ist Arduino. Die zu verwendende Sprache ist C. Die LEDs werden durch das Arduino gesteuert.
+
 
 ### _Code_ 
 Die hier verwendete Programmiersprache ist C. 
@@ -97,6 +97,8 @@ void loop() {
 	
 > https://starthardware.org/arduino-serial-print/
 	
->https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-monitor
+> https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-monitor
 	
->
+> https://blog.berrybase.de/blog/2020/05/26/arduino-einstieg-in-microcontroller-mit-dem-bewegungsmelder-sensor-hc-sr501/#HC-SR501_PIR_Sensor_-_Infrarot_Bewegungsmelder
+	
+> https://funduino.de/nr-8-bewegungsmelder	
