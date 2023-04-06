@@ -24,6 +24,7 @@ Der HC - SR501 verwendet einen PIR – Bewegungsmelder, was für „Passiv Infra
 Mit dem „Time Delay Adjust“ kann eingestellt werden, wie lange der Output Pin nach einer registrierten Bewegung ein HIGH-Signal ausgeben soll. 
 Mit dem „Sensitivity Adjust“ lässt sich die Reichweite (3-7 Meter) in der der Bewegungssensor Bewegung bemerken kann regulieren. 
 Mit der „Trigger Selection“ lässt sich einstellen, ob der Bewegungssensor mehrmals oder nur einmal ausgelöst werden soll. 
+> ![grafik](https://user-images.githubusercontent.com/111414662/230464502-99120b94-535f-42a9-ac18-902fdde69b81.png)
 
 
 ### _Code_ 
