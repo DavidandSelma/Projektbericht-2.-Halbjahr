@@ -10,15 +10,21 @@
 - [7) Quellen](#quellen) 
 
 ### _Einleitung_
-
+Die meisten Lampen in einem Haus funktionieren per Lichtschalter. Allerdings gibt es gerade im Gartenbereich bereits Lampen, die auf Bewegung reagieren und dann leuchten. Dies ist ihnen mithilfe eines eingebauten Bewegungssensors möglich. Dieses Projekt handelt von einem Modell, welches mit Hilfe eines Bewegungssensors LEDs zum Leuchten bringt. 
 
 ### _Arduino_ 
 Der Arduino ist ein kleiner Computer, genauer gesagt eine "Computing-Plattform", mit deren Hilfe man von kleinen Projekten - wie ein LED zum Leuchten bringen - bis zur Maschinensteuerung alles mögliche programmieren und machen kann. Den Arduino kann man als Steuersystem verwenden, mit dem man Abläufe automatisieren kann. Hierbei sind die Aus- und Eingänge (OutPut Pin und InPut Pin) abhängig von einander und dem, was progammiert wurde. Typischerweise wird der Arduino mit C oder C++ programmiert. 
 > ![This is an image](https://m.media-amazon.com/images/I/51txW1iicVL._AC_.jpg)
 
 ### _Projekt_
+Das verwendete Material umfasst einen Arduino UNO, ein Steckbrett, einen Bewegungsmelder, mehrere Jumperkabel, zwei LEDs und einen Karton. Die LEDs werden über den Bewegungsmelder gesteuert; registriert dieser etwas, fangen die LEDs an zu leuchten. Das gebaute Modell dient zur Veranschaulichung: der Karton stellt einen Lampe dar, die durch die LEDs erleuchtet wird. Dies passiert dann, wenn der Bewegungsmelder – welcher außen am Modell befestigt ist – eine Bewegung bemerkt und somit die LEDs im Inneren zum Leuchten bringt. 
 
 ### _Bewegungsmelder_ 
+Der HC - SR501 verwendet einen PIR – Bewegungsmelder, was für „Passiv Infrarot Sensor“ steht. Das bedeutet, dass er Infrarotstrahlung wahrnimmt. Hat er eine Bewegung registriert, dann gibt er auf einem Pin eine Spannung von 5 Volt aus. Diese wird dann vom Microcontroller ausgelesen und verarbeitet. Dann gibt es noch drei weitere Einstellungen des HC - SR501: „Time Delay Adjust“ (Ausschaltverzögerung), „Sensitivity Adjust“ (Sensitivität), „Trigger Selection“ (Jumper Ein-/ Ausschalter). 
+Mit dem „Time Delay Adjust“ kann eingestellt werden, wie lange der Output Pin nach einer registrierten Bewegung ein HIGH-Signal ausgeben soll. 
+Mit dem „Sensitivity Adjust“ lässt sich die Reichweite (3-7 Meter) in der der Bewegungssensor Bewegung bemerken kann regulieren. 
+Mit der „Trigger Selection“ lässt sich einstellen, ob der Bewegungssensor mehrmals oder nur einmal ausgelöst werden soll. 
+
 
 ### _Code_ 
 Die hier verwendete Programmiersprache ist C. 
