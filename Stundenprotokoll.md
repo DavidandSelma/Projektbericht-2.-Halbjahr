@@ -1,7 +1,7 @@
 # (1) 10.01.2023
 
 Heute war unsere erste Informatikstunde nach den Ferien und es geht in die zweite Runde. Da unser altes Projekt ja abgeschlossen war und wir Lust auf etwas Neues hatten, haben wir heute damit begonnen uns nach einer neuen Projektidee umzuschauen. Hierzu haben wir zunächst bei den alten Projekten ehemaliger Schüler nachgeschaut, um uns Inspiration zu holen. Wir wissen zwar noch nicht, was wir genau als unser nächstes Projekt in Angriff nehmen wollen, haben uns aber schon gegen ein Spiel in Greenfoot, mit Snap oder Scratch entschieden. 
-Unsere erste Überlegung ist es nun etwas in die Richtung "Physical Computing" mithilfe von Arduino zu machen. Des Weiteren würden wir hierbei gerne wieder mit Java coden. In den nächsten Stunden planen wir nun uns genauer mit "Physical Computing" und möglichen Projektideen auseinanderzusetzen.  
+Unsere erste Überlegung ist es nun etwas in die Richtung "Physical Computing" mit Hilfe von Arduino zu machen. Des Weiteren würden wir hierbei gerne wieder mit Java coden. In den nächsten Stunden planen wir nun uns genauer mit Physical Computing und möglichen Projektideen auseinanderzusetzen.  
 
 # (2) 11.01.2023
 
@@ -9,28 +9,28 @@ In der heutigen Stunde haben wir damit gestartet, uns zu überlegen, ob ein "Ras
 
 > https://www.techtag.de/it-und-hightech/arduino-vs-raspberry-pi-wo-liegt-der-unterschied/
 
-Dann haben wir uns zunächst einmal mit mögliche Projekte, die man mit Arduino machen kann auseinandergesetzt. Hierfür haben wir nach Projektbeispielen im Internet gesucht. 
+Dann haben wir uns mit möglichen Arduino-Projekten auseinandergesetzt. Hierfür haben wir nach Projektbeispielen im Internet gesucht. 
 
 > https://www.ionos.de/digitalguide/server/knowhow/arduino-projekte-ideen-beispiele-fuer-arduino-uno-nano/
 
-Danach haben wir uns auch über Projekte mit Raspberry Pi informiert, um zu schauen, was alles so möglich ist. 
+Danach haben wir uns auch über Projekte, die man mit Raspberry Pi erstellen kann, informiert, um erste Eindrücke zu sammeln. 
 
 > https://tutorials-raspberrypi.de/raspberry-pi-projekte-fuer-anfaenger-zum-nachbauen/
 
-Dann haben wir Arduino auf unserem Laptop installiert, damit wir dort coden können, da wir Arduino preferieren und uns somit hierfür entschieden haben. 
-Eigentlich wollten wir im 2. Teil der heutigen Stunde schonmal den Arduino anschließen und ein LED per Knopfrdruck zum Leuchten bringen, allerdings gab es keine Steckbrette mehr und von daher konnten wir dieses Vorhaben nicht umsetzen. Mit den Krokodilklammern mit denen wir arbeiten sollten kamen wir nämlich nicht so gut zurecht. 
+Schließlich haben wir die Arduino-Umgebung auf unserem Laptop installiert, damit wir dort coden können. Wir preferieren Arduino und somit haben wir uns hierfür entschieden. 
+Eigentlich wollten wir im 2. Teil der heutigen Stunde schonmal den Arduino anschließen und ein LED per Knopfrdruck zum Leuchten bringen, allerdings gab es keine Steckbretter mehr und von daher konnten wir dieses Vorhaben nicht umsetzen. Mit den Krokodilklammern mit denen wir arbeiten sollten kamen wir nicht so gut zurecht. 
 Deshalb haben wir stattdessen die Anfänge mit Arduino geübt und uns zu diesem Zweck mehrere Tutorials angeschaut. 
 
 > https://starthardware.org/
 
 # (3) 17.01.2023
 
-Heute haben wir uns noch weiter mit unserem Projekt beschäftigt. Unser Projekt soll in etwa so aussehen: eine Lampe geht an, entweder mithilfe eines Bewegungssensors, der Bewegung wahrnimmt oder mithilfe eines Wärmesensors, der Infrarotstrahlung, also Wärme, registriert. Abhängig davon, was besser funktioniert, entscheiden wir uns die nächsten Stunden genau wie unser Projekt aussehen soll. 
-Anonsten haben wir heute weiter Recherche zu Arduino und dem Arbeiten mit Arduino beschäftigt; noch sind wir sehr gespannt, wie wir das so hinbekommen, da unser altes Projekt ja nichts mit physical computing zu tun hatte. 
+Heute haben wir uns noch weiter mit unserem Projekt beschäftigt. Unser Projekt soll in etwa so aussehen: eine Lampe geht an, entweder mit Hilfe eines Bewegungssensors, der Bewegungen wahrnimmt, oder mit Hilfe eines Wärmesensors, der Infrarotstrahlung, also Wärme, registriert. Abhängig davon, was besser funktioniert, entscheiden wir uns die nächsten Stunden wie unser Projekt genau aussehen soll. 
+Anonsten haben wir uns heute weiter mit der Recherche zu Arduino und dem Arbeiten mit Arduino beschäftigt. Noch sind wir sehr gespannt, wie wir das so hinbekommen, da unser altes Projekt ja nichts mit Physical Computing zu tun hatte. 
 
 # (4) 18.01.2023
 
-Heute haben wir uns nun an Arduino herangewagt und erste kleine Versuche unternommen, dadurch, dass wir bereits mit Greenfoot gearbeitet hatten, war uns Java schon etwas geläufiger. Zunächst haben wir mithilfe des Arduinos und Krokodilklammern ein LED zum Leuchten gebracht. Außerdm haben wir einen Arduino-Dimmschalters angebracht und die Spannung des Arduinos (0V - 5V) damit gemessen, indem wir den Widertand erhöht haben. Danach haben wir den Widerstand des Dimschalters gemessen. Anschließend haben wir versucht die Teilspannug des Arduinos durch den Dimschalter digital einzulesen, mit dem "Serial Monitor".
+Heute haben wir uns nun an Arduino herangewagt und erste kleine Versuche unternommen. Dadurch, dass wir bereits mit Greenfoot gearbeitet hatten, war uns Java schon etwas geläufiger und C ähnelt Java etwas. Zunächst haben wir mit Hilfe des Arduinos und Krokodilklammern ein LED zum Leuchten gebracht. Außerdem haben wir einen Arduino-Dimmschalter angebracht und die Spannung des Arduinos (0V - 5V) damit gemessen, indem wir den Widertand erhöht haben. Danach haben wir den Widerstand des Dimschalters gemessen. Anschließend haben wir versucht, die Teilspannug des Arduinos durch den Dimschalter digital einzulesen, mit dem "Serial Monitor".
 
 > ![grafik](https://user-images.githubusercontent.com/111414662/213119963-d4e1d268-f1b5-4654-a84a-52813ae486ed.png)
 
@@ -45,7 +45,7 @@ Als Hilfestellung haben wir uns im Internet auf verschiedenen Seiten informiert.
 
 # (5) 24.01.2023
 
-Heute haben wir ein Breadboard erhalten und uns zunächst damit etwas eingearbeitet. Die Idee war, erstmal ein LED zum Leuchten zu bringen. Den Code dafür findet man in einem vorgespeicherten Beispiel bei Arduino, sodass man nur alles richitg verkablen musste. Als wir dies getan haben, leuchtete jedoch zunächst nur das kleine Lämpchen auf dem Arduino selbst und nicht das eingesteckte LED Licht. 
+Heute haben wir ein Breadboard erhalten und uns zunächst damit etwas eingearbeitet. Die Idee war, erstmal ein LED zum Leuchten zu bringen. Den Code dafür findet man in einem vorgespeicherten Beispiel bei Arduino, sodass wir nur alles richitg verkabeln mussten. Als wir dies getan hatten, leuchtete jedoch zunächst nur das kleine Lämpchen auf dem Arduino selbst, und nicht das eingesteckte LED Licht. 
 
 > ![grafik](https://user-images.githubusercontent.com/111414662/214284597-481c5b2b-ddec-45c5-8749-58d83a63cbad.png)
 
@@ -55,20 +55,20 @@ Trotz einiges hin- und herprobierens und googelns konnten wir das Porblem in der
 
 # (6) 25.01.2023
 
-In der heutigen Stunde haben wir uns zunächst mit dem Problem aus letzter Stunde beschäftigt und es schließlich auch gelöst; der Code war richtig, der Arduino war lediglich nicht richtig verkabelt. Nun leuchtet und blickt also auch das LED. 
+In der heutigen Stunde haben wir uns zunächst mit dem Problem aus letzter Stunde beschäftigt und es schließlich auch gelöst: der Code war richtig, der Arduino war lediglich nicht richtig verkabelt. Nun leuchtet und blickt also auch das LED. 
 
 > ![grafik](https://user-images.githubusercontent.com/111414662/214511096-e875ac4f-50a9-4fd1-b34d-3a35d2944c06.png)
 
 Dann haben wir noch eine Konstante (Const) für unseren Port definiert, die besagt, dass der LEDPIN = 4 ist. Somit können wir die Variable 4 (den Output-Port) im Code immer durch LEDPIN ersetzen. 
-Außerdem haben wir noch den "Serial Monitor" programmiert, der immer das ausspuckt, was der Arduino gerade als Befehl bekommt, also in unserem Falle "On" und "Off", je nachdem ob das LED gerade blinkt oder nicht. 
+Außerdem haben wir noch den "Serial Monitor" programmiert, der immer das ausspuckt, was der Arduino gerade als Befehl bekommt. In unserem Falle "On" und "Off", je nachdem, ob das LED gerade blinkt oder nicht. 
 
 > ![grafik](https://user-images.githubusercontent.com/111414662/214511163-209a0e23-54d5-4d39-994d-acc94652655c.png)
 
-Schlussendlich haben wir noch angefangen, eine Schleife (mit dem Befehl "for") einzurichten. Dabei soll das LED in der Theorie immer 4x mal blinken und dann eine Puase machen. Dabei wird ein Zähler eingerichtet, der pro blinken immer 1 dazu addiert. Der Code wurde zwar geuploaded, allerdings pausiert das Blinken des LEDs bisher noch nicht. Darum werden wir uns also in den nächsten Stunden kümmern müssen. 
+Schlussendlich haben wir noch damit angefangen, eine Schleife (mit dem Befehl "for") einzurichten. Dabei soll das LED in der Theorie immer 4x mal blinken und dann eine Pause machen. Dabei wird ein Zähler eingerichtet, der pro Blinken immer 1 dazu addiert. Der Code wurde zwar geuploaded, allerdings pausiert das Blinken des LEDs bisher noch nicht. Darum werden wir uns also in den nächsten Stunden kümmern müssen. 
 
 > ![grafik](https://user-images.githubusercontent.com/111414662/214514180-0dcd95bb-6dea-4599-b2c6-7002d7ee1267.png)
 
-Am Ende wollen wir einen kleinen Rechner damit programmieren (mithilfe vom Blinken); Hilfe haben wir dazu auf dieser Website gefunden: 
+Das Ziel ist es, einen kleinen Rechner damit zu programmieren, der das errechnete Ergebnis durchs Blinken anzeigen soll. Hilfe und Anweisungen haben wir dazu auf dieser Website gefunden: 
 
 > https://starthardware.org/lektion-10-for-schleife-und-der-led-rechner/
 
@@ -85,7 +85,7 @@ In der heutigen Stunde haben wir zunächst noch weitere LEDS zum Leuchten gebrac
 
 # (9) 10.02.2023
 
-Heute haben wir uns weiter mit unserer Spielidee beschäftigt. Um uns noch intensiver damit auseinaderzustezen, nehmen wir den Arduino-Baukasten mit nach Hause übers Wochenende. Dananch haben wir noch weiter an dem Code aus letzter Stunde gearbeitet.
+Heute haben wir uns weiter mit unserer Spielidee beschäftigt. Um uns noch intensiver damit auseinaderzustezen, nehmen wir den Arduino-Baukasten über das Wochenende mit nach Hause. Dananch haben wir noch weiter an dem Code aus letzter Stunde gearbeitet.
 
 # (10) 12.02.2023 (Zuhause)
 
@@ -133,16 +133,18 @@ Danach haben wir noch unsere bisherigen Beiträge auf Fehler korrigiert und das 
 > ![grafik](https://user-images.githubusercontent.com/111414662/224303508-4c4e66fd-cfca-4e5e-a598-17bcd0981040.png)
 > ![grafik](https://user-images.githubusercontent.com/111414662/224303560-d88d9254-b405-43fb-89d2-11a06026eebf.png)
 
-# (17) 15.03.23
+# (17) 15.03.2023
 
 In der heutigen Stunde haben wir weiter an unserem Projekttagebuch gearbeitet. Des Weiteren haben wir uns überlegt, wie wir unser Projekt präsentieren wollen. Wir sind dabei ein Modell zu entwickeln (wahrscheinlich in einem Schukarton) mit dessen Hilfe wir unser Projekt cool darstellen können. 
 
-# (18) 17.03.23
+# (18) 17.03.2023
 
 Heute haben wir an unserem Modell gearbeitet. Hierzu haben wir beispielsweise einen Karton rausgesucht und angenafnge, unser Modell zu planen und zu bauen. 
 
-# (19) 24.03.23 
+# (19) 24.03.2023
 
 In der heutigen Stunde haben wir an unserem Projektbericht gearbeitet. Eigentlich wollten wir an unserem Modell weiterbasteln, allerdings konnten wir den Karton, den wir verwendet hatten, nicht wiederfinden. Da es ansonsten auch keinen passenden Karton in der Informatik oder sonst wo gab, können wir da erst nächste Woche mit fortfahren. 
 
+# (20) 31.03.2023
 
+Heute haben wir unser Modell fertiggstellt. Dafür haben wir beispielsweise Fenster in unseren Karton geschnitten und diese mit Transparenzpapier hinterlegt. Danach haben wir noch an unserem Projektprotokoll weitergearbeitet und sind damit fast fertig. Das Projekttagebuch werden wir noch am Wochenende zu Ende schreiben.
