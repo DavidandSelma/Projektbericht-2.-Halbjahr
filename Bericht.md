@@ -28,7 +28,9 @@ Mit der „Trigger Selection“ lässt sich einstellen, ob der Bewegungssensor m
 
 
 ### _Code_ 
-Die hier verwendete Programmiersprache ist C. 
+Die zum Codieren verwendete Programmiersprache ist C. 
+
+Hier sind zunächst einmal drei Variabel Funktionen. Jede der Variablen definiert einen Output Pin, dies hat den Zweck, dass man den Wert, der der jeweiligen Variable zugeordnet ist, nur einmal am Anfang des Codes definieren muss.  
 
 <details>
 	<summary>Ausschnitt des Codes</summary>
@@ -42,6 +44,10 @@ const int LED2 = 4; // Die LED2 (grün) ist an Pin 4 angeschlossen
   ```	
 </details> 
 
+
+Die „Void SetUp“ - Funktion bereitet das System vor, indem sie Pin 4 und 5, die den LEDs zugeordnet sind, als Ausgang definiert und Pin 7, der mit dem Bewegungssensor verknüpft ist, als Eingang. 
+Des Weiteren wird der Grundzustand der LEDs als „LOW“ definiert, was bedeutet, dass sie zunächst aus sind und somit nicht leuchten. 
+Außerdem wurde hier ein Counter für den Bewegungssensor programmiert, der nämlich eine Minute zum Hochfahren braucht. Wird das Programm hochgeladen, so wird im Serial Monitor die Anweisung „Initialising Sensor“ geprinted. Dann geht ein Counter los, der mit Hilfe einer „for“ - Schleife funktioniert. Jedes Mal, wenn der Counter eine 10-er Stufe erreicht, wird dann die verbleibende Zeit ausgegeben, so zählt er dann von 60 runter und die Ergebnisse werden im Serial Monitor geprinted. Ist der Sensor einsatzbereit, dann erscheint die Textzeile „Ready to use“, mit der eben dies signalisiert wird. 
 
 <details>
 	<summary>Ausschnitt des Codes</summary>
