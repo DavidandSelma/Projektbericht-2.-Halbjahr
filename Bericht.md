@@ -107,6 +107,9 @@ void loop() {
 
 ### _Fazit_ 
 
+Dieses Projekt hat also gezeigt, dass es gut möglich ist, Lampen (oder in diesem Falle LEDs) mit Hilfe eines Bewegungsmelders zu steuern. Heutzutage werden Häuser und Wohnungen mit immer mehr Technik ausgestattet, wie mit virtuellen Sprachassistenten (Alexa, Google Home etc.) und intelligenten Systemen, wie „smartHome“, mit denen eine Steuerung von Fernseher, Lampen und anderen elektronischen Geräten möglich ist. 
+Lampen die auf Bewegung reagieren, sind nun mal sehr praktisch und eine Bereicherung sowie Vereinfachung des täglichen Lebens. Somit werden sie in der Zukunft sicherlich flächendeckender eingesetzt werden, sodass man um seine Licht einzuschalten lediglich die Hand bewegen muss. 
+	
 ### _Quellen_
 > https://www.conrad.de/de/ratgeber/entwicklungskits-bausaetze/arduino.html
 
