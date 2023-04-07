@@ -79,6 +79,12 @@ void setup() {
 </details> 
 	
 	
+Die Befehle, die im „Void Loop“ festgeschrieben sind, werden in einer endlosschleife wiederholt. Das bedeutet, dass sobald alle Befehle einmal durchlaufen wurden sie erneut ausgeführt werden. 
+Hierbei wird der Status des Bewegungssensors im Serial Monitor geprinted. Wenn eine 1 ausgegeben wird, dann bedeutet das, dass der Bewegungssensor eine Bewegung registriert hat und wenn eine 0 ausgegeben wird, dann bedeutet das, dass eben keine Bewegung wahrgenommen wurde. 
+Des Weiteren werden die LEDs so instruiert, dass wenn der Bewegungssensor eine Bewegung wahrgenommen hat, diese dann vom Ausgangsstatus „Low“ auf den Status „High“ gesetzt werden, sie leuchten nun also. 
+Das Leuchten hält für eine Zeitspanne von ca. 10 Sekunden an und geht dann wieder aus und die LEDs leuchten erst dann wieder, wenn ihr Status von „Low“ auf „High“ durch eine vom Bewegungssensor registrierte Bewegung gesetzt wird. 
+Falls der Sensor allerdings nichts registriert, bleiben die LEDs 1 und 2 in ihrem Ausgangzustand, also aus. 
+
 <details>
 	<summary>Ausschnitt des Codes</summary>
 	
